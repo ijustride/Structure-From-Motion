@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import os
 
+# this is a test project
+
 # Focal lengths in pixels
 f_x = 896
 f_y = 576
